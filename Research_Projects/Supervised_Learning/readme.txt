@@ -1,1 +1,1 @@
-various models for predicting ftrquency during placement
+various models for predicting frequency during placement
